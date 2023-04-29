@@ -9,5 +9,17 @@
         "name": "Iryna"
     },
     "items": [
+        {
+            "id": "https://nafania.net/hello-hello-grand-opening-welcome-to-the-club.html",
+            "url": "https://nafania.net/hello-hello-grand-opening-welcome-to-the-club.html",
+            "title": "Hello hello. Grand opening. Welcome to the club",
+            "author": {
+                "name": "Iryna"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-04-29T12:08:03+02:00",
+            "date_modified": "2023-04-29T12:08:03+02:00"
+        }
     ]
 }

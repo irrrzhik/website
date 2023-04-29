@@ -3,10 +3,22 @@
     <title>Natatki</title>
     <link href="https://nafania.net/feed.xml" rel="self" />
     <link href="https://nafania.net" />
-    <updated>1970-01-01T01:00:00+01:00</updated>
+    <updated>2023-04-29T12:08:03+02:00</updated>
     <author>
         <name>Iryna</name>
     </author>
     <id>https://nafania.net</id>
 
+    <entry>
+        <title>Hello hello. Grand opening. Welcome to the club</title>
+        <author>
+            <name>Iryna</name>
+        </author>
+        <link href="https://nafania.net/hello-hello-grand-opening-welcome-to-the-club.html"/>
+        <id>https://nafania.net/hello-hello-grand-opening-welcome-to-the-club.html</id>
+
+        <updated>2023-04-29T12:08:03+02:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
 </feed>
