@@ -3,7 +3,7 @@
     <title>Natatki</title>
     <link href="https://nafania.net/feed.xml" rel="self" />
     <link href="https://nafania.net" />
-    <updated>2023-04-29T12:08:03+02:00</updated>
+    <updated>2023-04-29T12:09:00+02:00</updated>
     <author>
         <name>Iryna</name>
     </author>
@@ -17,8 +17,16 @@
         <link href="https://nafania.net/hello-hello-grand-opening-welcome-to-the-club.html"/>
         <id>https://nafania.net/hello-hello-grand-opening-welcome-to-the-club.html</id>
 
-        <updated>2023-04-29T12:08:03+02:00</updated>
-            <summary></summary>
-        <content></content>
+        <updated>2023-04-29T12:09:00+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Hello hello. How are you doing
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Hello hello. How are you doing</p>
+            ]]>
+        </content>
     </entry>
 </feed>

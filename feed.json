@@ -13,13 +13,15 @@
             "id": "https://nafania.net/hello-hello-grand-opening-welcome-to-the-club.html",
             "url": "https://nafania.net/hello-hello-grand-opening-welcome-to-the-club.html",
             "title": "Hello hello. Grand opening. Welcome to the club",
+            "summary": "Hello hello. How are you doing",
+            "content_html": "<p>Hello hello. How are you doing</p>",
             "author": {
                 "name": "Iryna"
             },
             "tags": [
             ],
             "date_published": "2023-04-29T12:08:03+02:00",
-            "date_modified": "2023-04-29T12:08:03+02:00"
+            "date_modified": "2023-04-29T12:09:00+02:00"
         }
     ]
 }
