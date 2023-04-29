@@ -1,27 +1,13 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Irzhik Init Build",
+    "title": "Natatki",
     "description": "",
-    "home_page_url": "https://irrrzhik.github.io/website",
-    "feed_url": "https://irrrzhik.github.io/website/feed.json",
+    "home_page_url": "https://nafania.net",
+    "feed_url": "https://nafania.net/feed.json",
     "user_comment": "",
     "author": {
-        "name": "Irina"
+        "name": "Iryna"
     },
     "items": [
-        {
-            "id": "https://irrrzhik.github.io/website/first-post.html",
-            "url": "https://irrrzhik.github.io/website/first-post.html",
-            "title": "First Post",
-            "summary": "First post Hello World Some text! List item !Another list item",
-            "content_html": "\n    <h2 id=\"first-post\">\n      First post\n    </h2>\n<div><p>Hello World</p></div>\n\n  <p>\n    Some text!\n  </p>\n\n  <ul>\n    <li>List item !</li><li>Another list item</li>\n  </ul>",
-            "author": {
-                "name": "Irina"
-            },
-            "tags": [
-            ],
-            "date_published": "2023-04-26T21:36:31+02:00",
-            "date_modified": "2023-04-26T21:36:31+02:00"
-        }
     ]
 }

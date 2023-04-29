@@ -1,44 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>Irzhik Init Build</title>
-    <link href="https://irrrzhik.github.io/website/feed.xml" rel="self" />
-    <link href="https://irrrzhik.github.io/website" />
-    <updated>2023-04-26T21:36:31+02:00</updated>
+    <title>Natatki</title>
+    <link href="https://nafania.net/feed.xml" rel="self" />
+    <link href="https://nafania.net" />
+    <updated>1970-01-01T01:00:00+01:00</updated>
     <author>
-        <name>Irina</name>
+        <name>Iryna</name>
     </author>
-    <id>https://irrrzhik.github.io/website</id>
+    <id>https://nafania.net</id>
 
-    <entry>
-        <title>First Post</title>
-        <author>
-            <name>Irina</name>
-        </author>
-        <link href="https://irrrzhik.github.io/website/first-post.html"/>
-        <id>https://irrrzhik.github.io/website/first-post.html</id>
-
-        <updated>2023-04-26T21:36:31+02:00</updated>
-            <summary>
-                <![CDATA[
-                    First post Hello World Some text! List item !Another list item
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                
-    <h2 id="first-post">
-      First post
-    </h2>
-<div><p>Hello World</p></div>
-
-  <p>
-    Some text!
-  </p>
-
-  <ul>
-    <li>List item !</li><li>Another list item</li>
-  </ul>
-            ]]>
-        </content>
-    </entry>
 </feed>
