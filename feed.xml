@@ -3,7 +3,7 @@
     <title>Natatki</title>
     <link href="https://nafania.net/feed.xml" rel="self" />
     <link href="https://nafania.net" />
-    <updated>2023-07-05T12:39:15+02:00</updated>
+    <updated>2023-07-06T13:22:39+02:00</updated>
     <author>
         <name>Iryna</name>
     </author>
@@ -16,8 +16,9 @@
         </author>
         <link href="https://nafania.net/bakkanosi-moy.html"/>
         <id>https://nafania.net/bakkanosi-moy.html</id>
+            <category term="Norway"/>
 
-        <updated>2023-07-05T12:28:46+02:00</updated>
+        <updated>2023-07-06T13:22:11+02:00</updated>
             <summary>
                 <![CDATA[
                     <p>Мы стараемся хотя бы раз за год выбраться в поход где-нибудь в Норвегии. И я сама в шоке, но мне очень нравится все это мероприятие. Хотя если меня спросить где-нибудь на половине маршрута, то вряд ли я буду так уж согласна с собственным утверждением. Тут надо сразу отметить, что я спортивно слабо подготовленный походник. Очень долго и сложно иду в гору, с радостью и удовольствием бегу с горы. Если на норвежском сайте с маршрутами походов <span style="text-decoration: underline;"><a href="https://ut.no/" target="_blank" rel="noopener noreferrer">ut.no</a></span> будет написано, что поход «Простой», значит, я с трудом, но пройду его, а мимо меня будут стайками пробегать улыбающиеся норвежские пенсионеры. Если там написано, что маршрут проходится за 6-8 часов, это значит, что мои норвежские друзья пройдут его за 4 часа, ну а я за честно указанные 8. Как-то так. Так что мои отчеты можно включить в категорию «Походы обычного человека, добро пожаловать в Норвегию». При этом я получаю искреннее чистое удовольствие от всего процесса, каким бы долгим он в моем случае ни был.</p>
@@ -63,8 +64,9 @@
         </author>
         <link href="https://nafania.net/kataemsya-po-oslo-i-nemnogo-po-norvegii-obshchestvennyy-transport.html"/>
         <id>https://nafania.net/kataemsya-po-oslo-i-nemnogo-po-norvegii-obshchestvennyy-transport.html</id>
+            <category term="Norway"/>
 
-        <updated>2023-07-05T12:37:31+02:00</updated>
+        <updated>2023-07-06T13:22:19+02:00</updated>
             <summary>
                 <![CDATA[
                     <header class="entry-header">
@@ -250,8 +252,9 @@
         </author>
         <link href="https://nafania.net/gory-ozera-snova-gory-ili-pobeda-lenivca.html"/>
         <id>https://nafania.net/gory-ozera-snova-gory-ili-pobeda-lenivca.html</id>
+            <category term="Norway"/>
 
-        <updated>2023-07-05T12:39:01+02:00</updated>
+        <updated>2023-07-06T13:22:29+02:00</updated>
             <summary>
                 <![CDATA[
                     <p>18 September 2014</p>
@@ -323,8 +326,9 @@
         </author>
         <link href="https://nafania.net/zasedanie-na-kafedre.html"/>
         <id>https://nafania.net/zasedanie-na-kafedre.html</id>
+            <category term="Norway"/>
 
-        <updated>2023-07-05T12:38:43+02:00</updated>
+        <updated>2023-07-06T13:22:39+02:00</updated>
             <summary>
                 <![CDATA[
                     <article id="post-958" class="post-958 post type-post status-publish format-standard hentry category-- category-8">
